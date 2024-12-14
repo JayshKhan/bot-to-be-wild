@@ -1,4 +1,4 @@
-# Bot to be Wild: A Franka Emika Panda Robotics Adventure
+# Bot to be Wild: A Franka Emika Panda (FR3) Robotics Adventure
 
 **Bot to be Wild: A robotics learning adventure with a Franka Panda, where the only limit is our imagination (and maybe the robot's joint limits).**
 
